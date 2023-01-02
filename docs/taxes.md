@@ -60,7 +60,7 @@
     * Online должно быть проще, но Ужонд может не поддерживать этот вид, тогда надо платить через банковский перевод. Детали по банковскому переводу:
         * Odbiorca -> urzęd miasta lub gminy (то есть НЕ Ужонд Скарбовы). Пример: URZĄD MIEJSKI W GDAŃSKU
         * Tytuł -> Opłata skarbowa za wydanie zaświadczenia o niezaleganiu w podatkach
-        * номер счета нужно гуглить (пример для [Варшавы](https://warszawa19115.pl/-/oplata-skarbowa), [Гданьска](https://www.gdansk.pl/urzad-miejski/wykaz-kont-urzedu-miejskiego,a,28871))
+        * номер счета нужно гуглить (пример для [Варшавы](https://warszawa19115.pl/-/oplata-skarbowa), [Гданьска](https://www.gdansk.pl/urzad-miejski/wykaz-kont-urzedu-miejskiego,a,28871), [Вроцлава](https://wroclaw.sa.gov.pl/oplaty-skarbowe,m,mg,12,348,433))
 10. Sposób odbioru zaświadczenia -> elektroniczne w Biznes.gov.pl (можно выбрать и другие варианты, и ожидать\забирать справку соответствующим образом)
 
 ## VAT
